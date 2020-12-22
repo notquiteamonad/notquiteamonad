@@ -1,0 +1,1 @@
+[![notquiteamonad's github stats](https://github-readme-stats.vercel.app/api?username=notquiteamonad&show_icons=true&theme=solarized-dark&count_private=true)](https://github.com/notquiteamonad)
